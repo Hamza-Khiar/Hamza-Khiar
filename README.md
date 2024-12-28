@@ -1,4 +1,4 @@
-# Hi there &#9757	
+# Hi there &#x1F44B;	
 
   What's a better place to document your Journey as a Software Developer/Engineer than Github 👨‍💻
   -  I'm currently learning more about Fundamentals of Software Development & Specifically Web-Development
