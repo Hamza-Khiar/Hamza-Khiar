@@ -50,9 +50,8 @@ Currently strengthening:
 ### 📫 Let's Connect
 
 - GitHub: [@Hamza-Khiar](https://github.com/Hamza-Khiar)  
-- LinkedIn: (add your link here)  
-- Email: (add your email here)
-
+- LinkedIn: [@hamza-khiar](https://www.linkedin.com/in/hamzakhiar/)
+- Email: hamza.khiar.01@gmail.com
 ---
 
 *Balancing data insights with clean code — one project at a time* 📊💻
